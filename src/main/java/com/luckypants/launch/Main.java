@@ -1,4 +1,4 @@
-package launch;
+package com.luckypants.launch;
 
 import java.io.File;
 import org.apache.catalina.startup.Tomcat;

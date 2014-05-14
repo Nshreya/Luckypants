@@ -1,4 +1,4 @@
-package test;
+package com.model.test;
 
 /*
  * this code uses example from 
